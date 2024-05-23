@@ -39,5 +39,7 @@ exécuter les tests avec la commande suivante :
 - TypeORM  
 
 ## Par [mohrem09](https://github.com/mohrem09) && [Rizwan2398](https://github.com/Rizwan2398) 
+Mohamed Remmache 
+Abeed Rizvane HOUSSENALY
 MASTÈRE Dev Manager Full Stack EFREI Paris
 
