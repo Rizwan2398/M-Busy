@@ -32,11 +32,12 @@ exécuter les tests avec la commande suivante :
   # avec Docker 
    npm run test:e2e:postgres:windows
 
-  ``
+  ```
 ## l'API est construite avec
 - TypeScript
 - PostgreSQL
 - TypeORM  
 
-## Par [mohrem09](https://github.com/mohrem09) && [Rizwan2398](https://github.com/Rizwan2398) MASTÈRE Dev Manager Full Stack
+## Par [mohrem09](https://github.com/mohrem09) && [Rizwan2398](https://github.com/Rizwan2398) 
+MASTÈRE Dev Manager Full Stack EFREI Paris
 
